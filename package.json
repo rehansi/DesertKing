@@ -1,4 +1,5 @@
 {
+  "homepage": "http://rehansi.github.io/DesertKing",
   "name": "my-tailwind-project",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,7 @@
     "@types/react-dom": "^18.3.0",
     "autoprefixer": "^10.4.20",
     "framer-motion": "^11.5.4",
+    "gh-pages": "^6.1.1",
     "lucide-react": "^0.441.0",
     "postcss": "^8.4.47",
     "react": "^18.3.1",
@@ -25,6 +27,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
