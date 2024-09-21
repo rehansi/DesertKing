@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DesertKing/static/css/main.3fda7065.css",
+    "main.js": "/DesertKing/static/js/main.3c33248b.js",
+    "index.html": "/DesertKing/index.html",
+    "main.3fda7065.css.map": "/DesertKing/static/css/main.3fda7065.css.map",
+    "main.3c33248b.js.map": "/DesertKing/static/js/main.3c33248b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fda7065.css",
+    "static/js/main.3c33248b.js"
+  ]
+}
