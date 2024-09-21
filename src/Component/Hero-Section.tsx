@@ -291,7 +291,7 @@ const EnhancedTourismWebsite: React.FC = () => {
       </section>
 
       {/* Call-to-Action Section */}
-      <section className="py-20 bg-[#eac206]">
+      <section className="py-20 bg-[#000000]">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold text-[#333333] mb-6">
             Ready to Experience Dubai?

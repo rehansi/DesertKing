@@ -1,5 +1,5 @@
 import "./App.css";
-import Footer from "./Component/Footer";
+// import Footer from "./Component/Footer";
 import HeroSection from "./Component/Hero-Section";
 
 const App: React.FC = () => {
@@ -11,9 +11,9 @@ const App: React.FC = () => {
       </section>
 
       {/* Footer */}
-      <footer className="bg-black text-white py-6 text-center">
+      {/* <footer className="bg-black text-white py-6 text-center">
         <Footer />
-      </footer>
+      </footer> */}
     </div>
   );
 };
